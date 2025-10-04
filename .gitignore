@@ -1,0 +1,33 @@
+--------------------
+Build and Output Files
+--------------------
+Binaries
+
+*.exe
+*.pdb
+*.obj
+*.suo
+
+Operating System Files
+
+.DS_Store # macOS
+Thumbs.db # Windows
+Temporary files and logs
+
+*.tmp
+*.log
+*.bak
+Compiled output directories
+
+[Bb]in/
+[Oo]bj/
+Debug/
+Release/
+--------------------
+IDE Specific Files (Visual Studio/VS Code)
+--------------------
+
+.vs/          # Visual Studio Solution User Options
+*.user
+*.userprefs
+.vscode/      # VS Code workspace settings (optional)

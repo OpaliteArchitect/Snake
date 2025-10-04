@@ -1,0 +1,20 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net8.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWindowsForms>true</UseWindowsForms>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Reference Include="CustomControls">
+      <HintPath>..\lib\CustomControls.dll</HintPath>
+    </Reference>
+    <Reference Include="RainbowText">
+      <HintPath>..\lib\RainbowText.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>

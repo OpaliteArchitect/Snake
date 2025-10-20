@@ -38,4 +38,6 @@ cd Snake
 - Objective: Eat the food to grow and score points.
 - Game Over: The game ends if the snake hits the boundary or collides with its own body.
 
-Created by OpaliteArchitect
+## License
+
+Copyright (c) 2025 OpaliteArchitect. Licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/).

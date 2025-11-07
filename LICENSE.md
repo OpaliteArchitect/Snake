@@ -18,4 +18,4 @@ Under the following terms:
 
 **Full legal text is available at:** https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode
 
-Copyright (c) 2025 github.com/OpaliteArchitect
+Copyright (c) 2025 https://github.com/OpaliteArchitect

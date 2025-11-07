@@ -40,4 +40,4 @@ cd Snake
 
 ## License
 
-Copyright (c) 2025 extrainformativeassortment. Licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/).
+Copyright (c) 2025 OpaliteArchitect. Licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/).
